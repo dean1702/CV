@@ -1,6 +1,3 @@
-# CV
-Dean's CV
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
